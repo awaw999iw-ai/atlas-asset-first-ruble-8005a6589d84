@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://awaw999iw-ai.github.io/atlas-asset-first-ruble-8005a6589d84/sitemap.xml
